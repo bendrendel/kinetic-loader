@@ -10,7 +10,7 @@ This project uses HTML and CSS.
 
 ## Sources
 
-This is the 24th project in the Udemy course _50 Projects in 50 Days_ by Brad Traversy and Florin Pop.
+This is the 23rd project in the Udemy course _50 Projects in 50 Days_ by Brad Traversy and Florin Pop.
 
 ## Other
 
