@@ -1,17 +1,17 @@
-# Project Starter
+# Kinetic CSS Loader
 
 ## Introduction
 
-This project is a template for quickly starting new projects. It contains a boilerplate HTML file, a basic CSS stylesheet, an empty JS file, and a basic readme file.
+This project is a page loading animation made only with CSS border properties and animations.
 
 ## Technologies
 
-This project uses HTML, CSS, and vanilla JS.
+This project uses HTML and CSS.
 
 ## Sources
 
-This is the starter project in the Udemy course _50 Projects in 50 Days_ by Brad Traversy and Florin Pop.
+This is the 24th project in the Udemy course _50 Projects in 50 Days_ by Brad Traversy and Florin Pop.
 
 ## Other
 
-This project was created in January 2021 by Ben Drendel.
+This project was created in February 2021 by Ben Drendel.
